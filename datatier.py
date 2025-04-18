@@ -3,7 +3,7 @@
 # Executes SQL queries against the given database.
 #
 # Original author: Ellen Kidane and Prof. Joe Hummel
-#
+# Edited by: Jason Insalaco
 import sqlite3
 
 
